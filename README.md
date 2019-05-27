@@ -14,7 +14,7 @@ npm start
 A simple application that reads 2 large json files,   
 each file stores information about users.  
 the server reads the json files and match users from both files.  
-A user can add new records by get request to /add using postman etc.   
+A user can add new records by get request to /addUsers using postman etc.   
 I have added a feature that send a push notification to the client when new records are received - using socket.io 
 ## Client 
 display a users table with the data received from the server.  
