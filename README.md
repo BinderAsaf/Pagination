@@ -26,4 +26,4 @@ UI options:
 - gets a push notification when new records are received
 ## UI
 ![alt text](x.JPG "UI")
-![alt text](y.JPG "UI")
+![alt text](https://github.com/BinderAsaf/Pagination/blob/master/%E2%80%8F%E2%80%8Fy.JPG?raw=true "UI")
