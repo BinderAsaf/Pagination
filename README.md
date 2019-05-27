@@ -26,3 +26,4 @@ UI options:
 - gets a push notification when new records are received
 ## UI
 ![alt text](x.JPG "UI")
+![alt text](y.JPG "UI")
